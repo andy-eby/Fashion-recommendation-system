@@ -84,3 +84,4 @@ Please note that you need to have the "images" folder in your project directory 
 ## Credit 
 All credit for dataset goes to Param Aggarwal. Link to original dataset: 
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+
